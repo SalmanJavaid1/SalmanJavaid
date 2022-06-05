@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SalmanJavaid1
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me MAil ME At: itssalman67@gmail.com
+- 📫 How to reach me Mail Me At: itssalman67@gmail.com
 
 <!---
 SalmanJavaid1/SalmanJavaid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
